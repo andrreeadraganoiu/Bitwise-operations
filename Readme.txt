@@ -1,3 +1,5 @@
+link : https://ocw.cs.pub.ro/courses/programare/teme_2020/tema1_2020_cbd
+
 PRIMA PARTE	
 Task 1 - Bit by Bit 
 	1.Functia get_bit - am folosit o masca pe 64 de biti pentru a verifica bitul de pe pozitia i.
